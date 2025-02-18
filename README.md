@@ -1,3 +1,7 @@
+Membres du groupe 
+-AHOUILIHOUA yan MASSI1 
+-KPEIDJA Midia MAGIRE1
+-OGOUCHINA Nora MIAD1
 Gestionnaire de Tâches – README
 Description du Projet
 Cette application est un gestionnaire de tâches qui permet aux utilisateurs d'ajouter, de modifier, de supprimer et de prioriser des tâches. L'objectif principal est de fournir une solution pratique pour organiser et suivre les activités quotidiennes. L'application inclut une interface utilisateur intuitive, un système de stockage fiable et des notifications pour rappeler les tâches importantes.
